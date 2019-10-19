@@ -1,0 +1,8 @@
+**/*.npz
+**/*.npy
+**/*.jpg
+**/*.jpeg
+**/*.bmp
+**/*.png
+**/*.ppm
+**/.DS_Store

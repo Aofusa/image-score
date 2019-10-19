@@ -1,0 +1,7 @@
+keras
+tensorflow
+progressbar2
+numpy
+matplotlib
+sklearn
+pandas
